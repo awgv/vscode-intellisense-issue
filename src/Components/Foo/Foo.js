@@ -1,5 +1,5 @@
 import React from 'react'
-import { Bar } from 'Components'
+import { Bar } from './Bar'
 
 export function Foo() {
   return <Bar />
